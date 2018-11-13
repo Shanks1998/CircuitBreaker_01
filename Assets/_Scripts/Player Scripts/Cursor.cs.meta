@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e0b444974ff0dab4cb02356b61e0daed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floppyPrefab: {fileID: 1656215709877712, guid: f72f268f9c808504b8bb5933c6d6b5ca,
+      type: 2}
+  - bulletPrefab: {fileID: 1915892238145752, guid: 8109567832e541c4e81dc7f1db95f6bd,
+      type: 2}
+  - playerPrefab: {fileID: 1184451529747150, guid: 209a9ab0ef0928a4982b196df5438363,
+      type: 2}
+  - cursorPrefab: {fileID: 1893677902106156, guid: 5ba499a0a50c1ae4594c05702ef87aec,
+      type: 2}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
